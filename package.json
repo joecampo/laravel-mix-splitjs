@@ -1,0 +1,24 @@
+{
+  "name": "laravel-mix-splitjs",
+  "version": "0.1.0",
+  "description": "Configurable webpack code splitting for Mix",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joecampo/laravel-mix-splitjs.git"
+  },
+  "keywords": [
+    "mix'",
+    "laravel mix",
+    "code splitting"
+  ],
+  "author": "Joe Campo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joecampo/laravel-mix-splitjs/issues"
+  },
+  "homepage": "https://github.com/joecampo/laravel-mix-splitjs#readme"
+}
