@@ -46,4 +46,4 @@ mix.js('resources/assets/js/app.js', 'public/js')
 
 
 ## License
-The MIT License (MIT). Please see [License File](https://github.com/joecampo/laravel-shipstation/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
